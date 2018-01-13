@@ -77,7 +77,7 @@ class Register extends React.Component {
 
 const styles = StyleSheet.create({
   container: {
-    margin: 30
+    margin: 40
   },
   alignLogo: {
     paddingTop: 10,
